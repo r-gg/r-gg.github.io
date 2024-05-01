@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - r-gg
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - r-gg/flower-async
+  - r-gg/serverless-computing
+  - r-gg/ml-37
+  - r-gg/covid-19-eda-nn-rf
+  - r-gg/vs-ue
+  - r-gg/foop
+  - r-gg/http
+  - r-gg/fork_FFT
