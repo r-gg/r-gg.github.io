@@ -7,6 +7,7 @@ img: assets/img/aws_math/aws_lambda.png
 importance: 3
 category: distributed & cloud
 ---
+**Development Period:** *10.2022 - 01.2023*
 
 **Keywords:** *Cloud, Serverless, FaaS, AWS CDK, Lambda, DynamoDB, Cognito, S3, SNS, SQS, Localstack*
 

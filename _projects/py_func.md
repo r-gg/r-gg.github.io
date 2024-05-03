@@ -7,6 +7,7 @@ img: assets/img/py_func/haskell_python.jpg
 importance: 3
 category: software development
 ---
+**Development Period:** *09.2023*
 
 **Keywords:** *Python, Interpreter, Functional Language, Programming Languages*
 

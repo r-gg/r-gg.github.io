@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Async Online Federated Learning with Non-IID data
-description: Master Thesis project
+title: Asyc Non-IID FL
+description: Evaluating and Addressing Issues of Async Online Federated Learning with Non-IID data
 img: assets/img/masters/logo.png
 importance: 2
 category: distributed & cloud
 giscus_comments: false
 ---
+**Development Period:** *02.2024 - present*
 
 **Keywords**: *Federated Learning, Asyncrhonous Federated Learning, Non-IID data, Online Learning, Reinforcement Learning*
 

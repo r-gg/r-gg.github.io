@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Covid hospital stay days EDA & Modeling with NNs and RFs
-description: Bachelor's Thesis
+title: COVID Stay Days 
+description: EDA & Modeling with NNs and RFs
 img: assets/img/bachelor/bachelor.png
 importance: 1
 category: data science
 related_publications: false
 ---
+**Development Period:** *03.2022 - 06.2022*
 
 **Keywords:** *COVID-19, ordinal regression, ordinal classification, machine learning, random forests, neural networks, ranking, length of stay, pandas, numpy, matplotlib*
 

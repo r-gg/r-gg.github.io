@@ -7,6 +7,7 @@ img: assets/img/http/client_server.jpg
 importance: 3
 category: software development
 ---
+**Development Period:** *12.2020*
 
 **Keywords:** *C, TCP/IP Sockets, Client-Server, HTTP, Binary Data*
 

@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Kernel-based Neural Re-Ranking 
-description: Advanced Information Retrieval
+title: KNRM 
+description: Implementation of Kernel-based Neural Re-Ranking Model
 img: assets/img/adv_ir/knrm.png
 # redirect: https://unsplash.com
 importance: 2
 category: data science
 ---
+**Development Period:** *05.2023 - 06.2023*
+
 **Keywords:** *information retrieval, neural IR, neural re-ranking, embedding, kernel pooling, pytorch*
 
 Over the course Advanced Information Retrieval I implemented the **Kernel-based neural re-ranking model (KNRM)** as presented by [Xiong et al.](https://dl.acm.org/doi/abs/10.1145/3077136.3080809)

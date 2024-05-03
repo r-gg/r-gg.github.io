@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Federated Learning with Serverless
+title: Serverless FL
 description: Implementation of federated learning on a Kubernetes cluster with Apache Openwhisk
 img: assets/img/fl_serverless/fl _serverless1.png
 importance: 1
 category: distributed & cloud
 related_publications: false
 ---
+**Development Period:** *11.2023 - 01.2024*
 
 **Keywords**: *Serverless, Federated Learning, Kubernetes, Apache Openwhisk, MinIO, Kafka, kind*
 

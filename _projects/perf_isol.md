@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Performance Isolation in serverless edge-cloud
-description: Distributed Systems Internship project
+title: Serverless Performance Isolation 
+description: Survey on performance isolation methods in serverless edge-cloud
 img: assets/img/perf_isol/multi-tenant.jpg
 # redirect: https://unsplash.com
 importance: 1
 category: distributed & cloud
 ---
+**Development Period:** *07.2023 - 11.2023*
 
 **Keywords:** *performance isolation, performance interference, serverless computing, virtualization, function as a service, resource management*
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: packme
-description: Collaborative packing assistant for Android and iOS
+description: Collaborative packing assistant for Android and iOS (Flutter + Kotlin Spring)
 img: assets/img/packme/packme_logo.jpg
 # redirect: https://unsplash.com
 importance: 1
@@ -13,6 +13,8 @@ category: software development
         {% include figure.liquid loading="eager" path="assets/img/packme/packme_logo_narrow.png" title="packme logo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+**Development Period:** *10.2022 - 01.2023*
 
 **Keywords:** *mobile app, android, ios, spring boot, kotlin, websockets, CRDT, real-time collaborative editing, flutter, keycloak, agile, scrum*
 
@@ -58,6 +60,17 @@ We developed a collaborative packing assistant which enables users to create pac
 ### Backend
 
 Backend was developed as a **Spring Boot** project in Kotlin. We decided to use **Postgres** as the database and to use a self-managed instance of **Keycloak** for identity & user management (Spring Security was adapted for this purpose). In order to implement real-time editing (live-editing) we used Spring Websockets and modeled the lists as [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type).
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/packme/backend.png" title="PCA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Backend Architecture
+</div>
+
 
 
 ### Frontend

@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Relationships between Wellbeing and Sustainable Development
-description: Computational Statistics Research Internship
+title: Wellbeing and Sustainable Development
+description: Economic Growth Factors ~ Principal Component Analysis and PARAFAC
 img: assets/img/parafac/publication_rel.jpg
 # redirect: https://unsplash.com
 importance: 2
 category: data science
 ---
+**Development Period:** *06.2021 - 08.2021*
 
 **Keywords:** *pca, factor analysis, parafac, exploratory data analysis, data visualization, statistical data analysis, R*
 

@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Secure distributed email service with Java RMI 
-description: Distributed Systems course project
+title: E-Mail
+description: Secure distributed email service with Java RMI 
 img: assets/img/vs-ue/vs-ue.jpg
 # redirect: https://unsplash.com
 importance: 3
 category: software development
 ---
+**Development Period:** *12.2021 - 01.2022*
 
-**Keywords:** *distributed systems, dns-server, java rmi, email service, secure communication, SMTP, IMAP*
+**Keywords:** *TCP/IP, dns-server, java rmi, email service, secure communication, UDP, SMTP, IMAP, distributed systems*
 
 ## Co-authors:
 

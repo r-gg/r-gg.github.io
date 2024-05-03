@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Natural Language Processing ~ Feature Extraction and Deep Learning
-description: Amazon Reviews with BERT & LSTMs
+title: Natural Language Processing
+description: Feature Extraction and Deep Learning with BERT & LSTMs
 img: assets/img/nlp_ml/lstm.jpg
 # redirect: https://unsplash.com
 importance: 3
 category: data science
 ---
+**Development Period:** *12.2022 - 02.2023*
+
 **Keywords:** *natural language processing, BERT, LSTM, transfer learning, recurrent neural networks, AG News, Amazon Reviews, tensorflow, keras, transformers, optuna, keras-tuner*
 
 ## Co-Authors
