@@ -28,7 +28,7 @@ Implemented a decentralized E-Mailing service, that supports custom mail transfe
 
 ### Decentralized Email Service
 
-There are three types of servers: **nameservers**, **mailbox servers** and **transfer server**. Each nameserver has registry of IP addresses of the mail server of this domain and name servers of its subdomains. Mailbox servers store the messages of the users belonging to their domain/subdomain and offer access to these message. Transfer server forwards messages to the respective mailbox servers. 
+There are four types of servers: **nameservers**, **mailbox servers**, **transfer server** and **monitoring server**. Each nameserver has registry of IP addresses of the mail server of this domain and name servers of its subdomains. Mailbox servers store the messages of the users belonging to their domain/subdomain and offer access to these message. Transfer server forwards messages to the respective mailbox servers. After transfering a message, the transfer server sends a usage UDP packet (containing hosts IP & port, and senders email address) to the monitoring server. Monitoring server aggregates metrics across the transfer servers and across email addresses.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
