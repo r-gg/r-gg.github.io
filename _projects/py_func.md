@@ -8,6 +8,8 @@ importance: 3
 category: software development
 ---
 
+**Keywords:** *Python, Interpreter, Functional Language, Programming Languages*
+
 > Code available in [Github repository](https://github.com/r-gg/ps-23s/tree/main/task2).
 
 ## Description
