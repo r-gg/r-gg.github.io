@@ -14,13 +14,24 @@ category: software development
     </div>
 </div>
 
-**Development Period:** *10.2022 - 01.2023*
+<span class="lead"><span class="badge badge-pill badge-primary">Android</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">iOS</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Spring Boot</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Kotlin</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Unit- & Integration-Testing</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Websockets</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">CRDT</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">real-time collaborative editing</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Flutter</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Keycloak</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Agile</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">SCRUM</span></span>
 
-**Keywords:** *mobile app, android, ios, spring boot, kotlin, websockets, CRDT, real-time collaborative editing, flutter, keycloak, agile, scrum*
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 10.2022 - 01.2023</span></span>
 
 ## Co-Authors
 
-The app was developed as a part of the project in Advanced Software Engineering course together with my colleagues:
 - Johannes Zottele
 - Dominik Nussbaumer
 - Paul Pinter

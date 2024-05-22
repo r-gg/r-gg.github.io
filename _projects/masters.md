@@ -7,9 +7,15 @@ importance: 2
 category: distributed & cloud
 giscus_comments: false
 ---
-**Development Period:** *02.2024 - present*
 
-**Keywords**: *Federated Learning, Asyncrhonous Federated Learning, Non-IID data, Online Learning, Reinforcement Learning*
+<span class="lead"><span class="badge badge-pill badge-primary">Asyncrhonous Federated Learning</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Non-IID data</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Online Learning</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Privacy-preserving ML</span></span>
+
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 02.2024 - present</span></span>
+
 
 ## Abstract
 

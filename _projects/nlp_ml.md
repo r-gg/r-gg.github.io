@@ -7,9 +7,23 @@ img: assets/img/nlp_ml/lstm.jpg
 importance: 3
 category: data science
 ---
-**Development Period:** *12.2022 - 02.2023*
 
-**Keywords:** *natural language processing, BERT, LSTM, transfer learning, recurrent neural networks, AG News, Amazon Reviews, tensorflow, keras, transformers, optuna, keras-tuner*
+<span class="lead"><span class="badge badge-pill badge-primary">natural language processing</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">BERT</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">LSTM</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">transfer learning</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">recurrent neural networks</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">AG News</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Amazon Reviews</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">tensorflow</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">keras</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">transformers</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">optuna</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">keras-tuner</span></span>
+
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 12.2022 - 02.2023</span></span>
+
 
 ## Co-Authors
 

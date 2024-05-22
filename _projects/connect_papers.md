@@ -7,9 +7,14 @@ img: assets/img/connect-papers/graph.png
 importance: 1
 category: fun
 ---
-**Development Period:** *08.2023*
 
-**Keywords:** *python, webscraping, selenium webdriver, pyvis*
+<span class="lead"><span class="badge badge-pill badge-primary">Python</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Webscraping</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Selenium Webdriver</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">pyvis</span></span>
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 08.2023</span></span>
+
 
 While doing research for the Performance isolation paper, I was inspired to make a tool for visualizing references between the research papers. After implementing the first prototype I found out there are already plenty of advanced commercial solutions supporting this. 😅 
 

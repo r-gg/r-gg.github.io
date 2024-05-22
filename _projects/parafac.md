@@ -1,15 +1,23 @@
 ---
 layout: page
-title: Wellbeing and Sustainable Development
+title: Sustainable Development Data Analytics
 description: Economic Growth Factors ~ Principal Component Analysis and PARAFAC
 img: assets/img/parafac/publication_rel.jpg
 # redirect: https://unsplash.com
 importance: 2
 category: data science
 ---
-**Development Period:** *06.2021 - 08.2021*
 
-**Keywords:** *pca, factor analysis, parafac, exploratory data analysis, data visualization, statistical data analysis, R*
+<span class="lead"><span class="badge badge-pill badge-primary">pca</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">factor analysis</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">parafac</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">exploratory data analysis</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">data visualization</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">statistical data analysis</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">R</span></span>
+
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 06.2021 - 08.2021</span></span>
 
 **Mentor : Univ.-Prof. Dipl.-Ing. Dr.techn. Peter Filzmoser**
 

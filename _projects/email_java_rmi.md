@@ -7,18 +7,25 @@ img: assets/img/vs-ue/vs-ue.jpg
 importance: 3
 category: software development
 ---
-**Development Period:** *12.2021 - 01.2022*
 
-**Keywords:** *TCP/IP, dns-server, java rmi, email service, secure communication, UDP, SMTP, IMAP, distributed systems*
+<span class="lead"><span class="badge badge-pill badge-primary">Java</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">TCP/IP</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">domain-name-resolution</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Remote Method Invocation</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">secure communication</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">UDP</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Simple Mail Transfer Proticol (SMTP)</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Internet Message Access Protocol (IMAP)</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">distributed services</span></span>
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 12.2021 - 01.2022</span></span>
 
 ## Co-authors:
 
 Implemented this project together with my colleagues:
 - Nikolaus-Mathias Herl
 - Nikolaus Walther
-
-as a part of Distributed Systems course at TU Wien.
-
+  
 ## Summary
 
 Implemented a decentralized E-Mailing service, that supports custom mail transfer and mail access protocols with RSA-AES-based handshake and hash-based integrity checks. 

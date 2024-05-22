@@ -7,9 +7,13 @@ img: assets/img/py_func/haskell_python.jpg
 importance: 3
 category: software development
 ---
-**Development Period:** *09.2023*
 
-**Keywords:** *Python, Interpreter, Functional Language, Programming Languages*
+<span class="lead"><span class="badge badge-pill badge-primary">Python</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Interpreter</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Functional Programming</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Programming Languages</span></span>
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 09.2023</span></span>
 
 > Code available in [Github repository](https://github.com/r-gg/ps-23s/tree/main/task2).
 

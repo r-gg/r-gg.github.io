@@ -7,10 +7,24 @@ img: assets/img/sepm/hnh_logo.jpg
 importance: 3
 category: software development
 ---
-**Development Period:** *03.2021 - 06.2021*
 
-**Keywords:** *Java, Spring Boot, REST, MVC, H2, Hibernate, JDBC, JPA, Stripe, WebApp, Angular, Spring Security, Agile Development, SCRUM, Project Management*
+<span class="lead"><span class="badge badge-pill badge-primary">Java</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Spring Boot</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">REST</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">MVC</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">JUnit Testing</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">H2</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Hibernate</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">JDBC</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">JPA</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Stripe</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">WebApp</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Angular</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Spring Security</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Agile</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Project Management</span></span>
 
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 03.2021 - 06.2021</span></span>
 
 ## Description
 

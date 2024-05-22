@@ -7,9 +7,16 @@ img: assets/img/adv_ir/knrm.png
 importance: 2
 category: data science
 ---
-**Development Period:** *05.2023 - 06.2023*
 
-**Keywords:** *information retrieval, neural IR, neural re-ranking, embedding, kernel pooling, pytorch*
+<span class="lead"><span class="badge badge-pill badge-primary">neural information retrieval</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">neural re-ranking</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Embeddings</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">kernel pooling</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">pytorch</span></span>
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 05.2023 - 06.2023</span></span>
+
+
 
 Over the course Advanced Information Retrieval I implemented the **Kernel-based neural re-ranking model (KNRM)** as presented by [Xiong et al.](https://dl.acm.org/doi/abs/10.1145/3077136.3080809)
 

@@ -7,9 +7,22 @@ importance: 1
 category: data science
 related_publications: false
 ---
-**Development Period:** *03.2022 - 06.2022*
 
-**Keywords:** *COVID-19, ordinal regression, ordinal classification, machine learning, random forests, neural networks, ranking, length of stay, pandas, numpy, matplotlib*
+<span class="lead"><span class="badge badge-pill badge-primary">Python</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">ordinal regression</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">ordinal classification</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">machine learning</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">random forests</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">neural networks</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">pandas</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">numpy</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">matplotlib</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">COVID-19</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Hospitalization length prediction</span></span>
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 03.2022 - 06.2022</span></span>
+
+
 
 
 ## Abstract 

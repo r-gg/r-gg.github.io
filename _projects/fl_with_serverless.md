@@ -7,18 +7,28 @@ importance: 1
 category: distributed & cloud
 related_publications: false
 ---
-**Development Period:** *11.2023 - 01.2024*
+<span class="lead"><span class="badge badge-pill badge-primary">Federated Learning</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Serverless</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Kubernetes</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Docker</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Privacy-preserving ML</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Scripting & Automation</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Apache Openwhisk</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">MinIO</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Kafka</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">kind</span></span>
 
-**Keywords**: *Serverless, Federated Learning, Kubernetes, Apache Openwhisk, MinIO, Kafka, kind*
+
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 11.2023 - 01.2024</span></span>
+
 
 ## Co-Authors
 
-Project completed together with:
 - Matthias Schellner
 - Dominik Nussbaumer
 - Steven Ludwig
 
-as a part of Serverless Computing course at TU Wien.
 
 ## Description
 

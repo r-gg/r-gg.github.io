@@ -7,9 +7,15 @@ img: assets/img/http/client_server.jpg
 importance: 3
 category: software development
 ---
-**Development Period:** *12.2020*
 
-**Keywords:** *C, TCP/IP Sockets, Client-Server, HTTP, Binary Data*
+<span class="lead"><span class="badge badge-pill badge-primary">C</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">TCP/IP Sockets</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Client-Server</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">HTTP</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Binary Data</span></span>
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 12.2020</span></span>
+
 
 > Code available in [GitHub repository](https://github.com/r-gg/http).
 

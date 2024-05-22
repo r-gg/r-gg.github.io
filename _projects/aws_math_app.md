@@ -7,9 +7,21 @@ img: assets/img/aws_math/aws_lambda.png
 importance: 3
 category: distributed & cloud
 ---
-**Development Period:** *10.2022 - 01.2023*
 
-**Keywords:** *Cloud, Serverless, FaaS, AWS CDK, Lambda, DynamoDB, Cognito, S3, SNS, SQS, Localstack*
+<span class="lead"><span class="badge badge-pill badge-primary">AWS SDK</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">AWS CDK</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Serverless</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">FaaS</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Amazon Lambda</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Amazon S3</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Amazon Cognito</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Amazon DynamoDB</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Amazon SNS/SQS</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Localstack</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">Python</span></span>
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 10.2022 - 01.2023</span></span>
+
 
 ## Co-authors
 

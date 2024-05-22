@@ -7,9 +7,17 @@ img: assets/img/perf_isol/multi-tenant.jpg
 importance: 1
 category: distributed & cloud
 ---
-**Development Period:** *07.2023 - 11.2023*
 
-**Keywords:** *performance isolation, performance interference, serverless computing, virtualization, function as a service, resource management*
+<span class="lead"><span class="badge badge-pill badge-primary">containerization</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">virtualization</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">performance isolation</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">performance interference</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">serverless computing</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">function as a service</span></span>
+<span class="lead"><span class="badge badge-pill badge-primary">resource management</span></span>
+
+<span class="lead"><span class="badge badge-pill badge-secondary">Development Period: 07.2023 - 11.2023</span></span>
+
 
 **Mentor: Assistant Prof. Dipl.-Ing. Dr.techn. Stefan Nastić** 
 
